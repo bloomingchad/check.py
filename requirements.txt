@@ -1,0 +1,11 @@
+# Asynchronous HTTP client
+aiohttp==3.9.0
+
+# Retry mechanism
+tenacity==8.2.3
+
+# System monitoring library
+psutil==5.9.5
+
+# MPV player bindings
+python-mpv==0.5.2
